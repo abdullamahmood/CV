@@ -74,17 +74,17 @@ ___Intern___
 **Computer Languages**: Ruby, JavaScript, HTML, CSS
 
 ### Interests
-* [Music:](#www.soundcloud.com/abdullamahmood)
-  * [Tech/Deep](#www.soundcloud.com/abdullamahmood/sets/tech16)
-  * [Electronic](#www.soundcloud.com/abdullamahmood/sets/ss16)
+* [Music:](#https://www.soundcloud.com/abdullamahmood)
+  * [Tech/Deep](#https://www.soundcloud.com/abdullamahmood/sets/tech16)
+  * [Electronic](#https://www.soundcloud.com/abdullamahmood/sets/ss16)
   * [Chill Summery Music](#https://soundcloud.com/abdullamahmood/sets/chillsummer16)
-  * [Chill Hip Hop](#www.soundcloud.com/abdullamahmood/sets/chill-hip-hop)
-  * [Jazzy/Soul](#wwww.soundcloud.com/sets/jazzy-soul-vibes)
-  * [Brazilian/Bossa Nova](#www.soundcloud.com/abdullamahmood/sets/bossa)
+  * [Chill Hip Hop](#https://www.soundcloud.com/abdullamahmood/sets/chill-hip-hop)
+  * [Jazzy/Soul](#https://www.soundcloud.com/sets/jazzy-soul-vibes)
+  * [Brazilian/Bossa Nova](#https://www.soundcloud.com/abdullamahmood/sets/bossa)
   * [Experimental/Contemporary Classical](#https://soundcloud.com/abdullamahmood/sets/nilafur)
-  * [Grime](#www.soundcloud.com/abdullamahmood/sets/grime)
+  * [Grime](#https://www.soundcloud.com/abdullamahmood/sets/grime)
 
-* [Art, Architecture, Fashion & Photography](http://abdullamahmood.tumblr.com/)
+* [Art, Architecture, Fashion & Photography](https://abdullamahmood.tumblr.com/)
 
 
 ### Contact
