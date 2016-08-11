@@ -24,7 +24,7 @@
 
 ## Education
 
-#### Makers Academy
+### Makers Academy
 An intensive, 12-week, full-stack web development program focused on agile, test-driven, object-oriented programming
 Experience in:
 * Ruby / Ruby on Rails
@@ -35,13 +35,13 @@ Experience in:
 * Git/Github
 
 
-#### Imperial College Business School
+### Imperial College Business School
 ___MSc Innovation, Entrepreneurship, & Management, Merit___
 <br>
 Core Modules: Venture Capital & Growth Finance, Financial Accounting, Business Economics, Project Management, Innovation & Strategic Management, and Entrepreneurship
 
 
-#### The University of Chicago
+### The University of Chicago
 ___BA Economics, Honors___
 <br>
 Core Modules: Micro/Macroeconomics, Multivariate Calculus, Linear Algebra, Econometrics, Energy Policy and Environmental Economics
@@ -49,20 +49,20 @@ Core Modules: Micro/Macroeconomics, Multivariate Calculus, Linear Algebra, Econo
 
 ## Experience
 
-#### HomeHapp,___London, UK___
+### HomeHapp ***(2015-2016)***
  ___Business Development Manager___
  * Developed the company’s launch strategy, established connections with real estate agents and exhibited at TechCrunch Disrupt
 
-#### The Capital Markets Company N.V. (Capco), ___London, UK___
+### The Capital Markets Company N.V. (Capco) ***(2015)***
 ___Project Consultant___
 
 * Developed recommendations for banks to respond to disruptive financial technologies through a report focused on P2P transfer services
 
-#### Bahrain Mumtalakat Holding Company, ___Manama, Bahrain___
+### Bahrain Mumtalakat Holding Company  ***(2012)***
 ___Investment Analyst Intern___
 * Created dynamic Excel models to analyze company fundamentals and perform yield-spread analysis on MENA market fixed income assets using VBA on a Bloomberg Terminal
 
-#### Al Jazeera Shipping Company,  ___Manama, Bahrain___
+### Al Jazeera Shipping Company ***(2010/2013)***
 ___Intern___
 * Created an online database for the firm’s fleet and contributed to the redesigning of the shipyard’s security and safety systems as well as the company’s new website
 
@@ -87,6 +87,8 @@ ___Intern___
   * [Grime](http://www.soundcloud.com/abdullamahmood/sets/grime)
 
 * [Art, Architecture, Fashion & Photography](https://abdullamahmood.tumblr.com/)
+
+* [Podcast!](http://www.npr.org/podcasts/)
 
 
 ## Contact
