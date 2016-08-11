@@ -3,13 +3,13 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests) | [Contact](#contact)
 
-### Skills
+## Skills
 
-##### Problem Solving Skills
+#### Problem Solving Skills
 
-##### Analytical Thinking
+#### Analytical Thinking
 
-##### People
+#####People
 
 
 ## Projects
@@ -24,7 +24,7 @@
 
 ## Education
 
-### Makers Academy
+### Makers Academy  ***(2016)***
 An intensive, 12-week, full-stack web development program focused on agile, test-driven, object-oriented programming
 Experience in:
 * Ruby / Ruby on Rails
@@ -35,13 +35,13 @@ Experience in:
 * Git/Github
 
 
-### Imperial College Business School
+### Imperial College Business School ***(2014-2015)***
 ___MSc Innovation, Entrepreneurship, & Management, Merit___
 <br>
 Core Modules: Venture Capital & Growth Finance, Financial Accounting, Business Economics, Project Management, Innovation & Strategic Management, and Entrepreneurship
 
 
-### The University of Chicago
+### The University of Chicago ***(2010-2014)***
 ___BA Economics, Honors___
 <br>
 Core Modules: Micro/Macroeconomics, Multivariate Calculus, Linear Algebra, Econometrics, Energy Policy and Environmental Economics
