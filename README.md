@@ -61,6 +61,7 @@ ___Project Consultant___
 #### Bahrain Mumtalakat Holding Company, ___Manama, Bahrain___
 ___Investment Analyst Intern___
 * Created dynamic Excel models to analyze company fundamentals and perform yield-spread analysis on MENA market fixed income assets using VBA on a Bloomberg Terminal
+
 #### Al Jazeera Shipping Company,  ___Manama, Bahrain___
 ___Intern___
 * Created an online database for the firm’s fleet and contributed to the redesigning of the shipyard’s security and safety systems as well as the company’s new website
