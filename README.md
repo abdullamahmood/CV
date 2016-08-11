@@ -1,6 +1,6 @@
 ## Abdulla A. Mahmood
 
-[Skills](###Skills) [Projects](###Projects) [Education](###Education)
+[Skills](#skills) [Projects](#projects) [Education](#education)
 
 ### Skills
 
