@@ -26,12 +26,12 @@ Experience in: Ruby, Ruby on Rails, JavaScript, HTML, CSS, DataMapper, Node.js a
 
 
 ##### Imperial College Business School
-***MSc Innovation, Entrepreneurship, & Management***
+___MSc Innovation, Entrepreneurship, & Management___
 <br>
 Merit; Core Modules: Venture Capital & Growth Finance, Financial Accounting, Business Economics, Project Management, Innovation & Strategic Management, and Entrepreneurship
 
 
 ##### The University of Chicago
-***BA Economics***
+___BA Economics___
 <br>
 Core Modules: Micro/Macroeconomics, Multivariate Calculus, Linear Algebra, Econometrics, Energy Policy and Environmental Economics
