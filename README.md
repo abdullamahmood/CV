@@ -74,15 +74,15 @@ ___Intern___
 **Computer Languages**: Ruby, JavaScript, HTML, CSS
 
 ### Interests
-* [Music:](#https://www.soundcloud.com/abdullamahmood)
-  * [Tech/Deep](#https://www.soundcloud.com/abdullamahmood/sets/tech16)
-  * [Electronic](#https://www.soundcloud.com/abdullamahmood/sets/ss16)
-  * [Chill Summery Music](#https://soundcloud.com/abdullamahmood/sets/chillsummer16)
-  * [Chill Hip Hop](#https://www.soundcloud.com/abdullamahmood/sets/chill-hip-hop)
-  * [Jazzy/Soul](#https://www.soundcloud.com/sets/jazzy-soul-vibes)
-  * [Brazilian/Bossa Nova](#https://www.soundcloud.com/abdullamahmood/sets/bossa)
-  * [Experimental/Contemporary Classical](#https://soundcloud.com/abdullamahmood/sets/nilafur)
-  * [Grime](#https://www.soundcloud.com/abdullamahmood/sets/grime)
+* [Music:](#http://www.soundcloud.com/abdullamahmood)
+  * [Tech/Deep](#http://www.soundcloud.com/abdullamahmood/sets/tech16)
+  * [Electronic](#http://www.soundcloud.com/abdullamahmood/sets/ss16)
+  * [Chill Summery Music](#http://soundcloud.com/abdullamahmood/sets/chillsummer16)
+  * [Chill Hip Hop](#http://www.soundcloud.com/abdullamahmood/sets/chill-hip-hop)
+  * [Jazzy/Soul](#http://www.soundcloud.com/sets/jazzy-soul-vibes)
+  * [Brazilian/Bossa Nova](#http://www.soundcloud.com/abdullamahmood/sets/bossa)
+  * [Experimental/Contemporary Classical](#http://www.soundcloud.com/abdullamahmood/sets/nilafur)
+  * [Grime](#http://www.soundcloud.com/abdullamahmood/sets/grime)
 
 * [Art, Architecture, Fashion & Photography](https://abdullamahmood.tumblr.com/)
 
