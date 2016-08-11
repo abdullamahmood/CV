@@ -95,6 +95,6 @@ ___Intern___
 
 Email: abdulla.ali.mahmood@gmail.com
 
-LinkedIn: [abdullamahmod](https://www.linkedin.com/in/abdullamahmood)
+LinkedIn: [abdullamahmood](https://www.linkedin.com/in/abdullamahmood)
 
 Soundcloud: [abdullamahmood](https://www.soundcloud.com/abdullamahmood)
