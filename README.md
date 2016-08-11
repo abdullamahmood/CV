@@ -6,6 +6,7 @@
 
 
 
+
 ### Projects
 
 
@@ -23,6 +24,9 @@
 
 ##### Imperial College Business School
 ***MSc Innovation, Entrepreneurship, & Management***
+Merit; Core Modules: Venture Capital & Growth Finance, Financial Accounting, Business Economics, Project Management, Innovation & Strategic Management, and Entrepreneurship
+
 
 ##### The University of Chicago
 ***BA Economics***
+Core Modules: Micro/Macroeconomics, Multivariate Calculus, Linear Algebra, Econometrics, Energy Policy and Environmental Economics
