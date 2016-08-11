@@ -1,25 +1,15 @@
 ## Abdulla A. Mahmood
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests) | [Contact](#contact)
+
 ### Skills
 
+##### Problem Solving Skills
 
-### Experience
+##### Analytical Thinking
 
-#### HomeHapp		                                             				      London, UK
- __Business Development Manager__
- * Developed the company’s launch strategy, established connections with real estate agents and exhibited at TechCrunch Disrupt
-
-The Capital Markets Company N.V. (Capco)		                                             London, UK
-Project Consultant
-•	Developed recommendations for banks to respond to disruptive financial technologies through a report focused on P2P transfer services
- 2012		Bahrain Mumtalakat Holding Company				         Manama, Bahrain
-		Investment Analyst Intern
-•	Created dynamic Excel models to analyze company fundamentals and perform yield-spread analysis on MENA market fixed income assets using VBA on a Bloomberg Terminal
-2010/2013	Al Jazeera Shipping Company						         Manama, Bahrain
-		Intern
-•	Created an online database for the firm’s fleet and contributed to the redesigning of the shipyard’s security and safety systems as well as the company’s new website
-
+##### People
 
 
 ### Projects
@@ -46,23 +36,61 @@ Experience in:
 
 
 #### Imperial College Business School
-___MSc Innovation, Entrepreneurship, & Management___
+___MSc Innovation, Entrepreneurship, & Management, Merit___
 <br>
 Core Modules: Venture Capital & Growth Finance, Financial Accounting, Business Economics, Project Management, Innovation & Strategic Management, and Entrepreneurship
 
 
 #### The University of Chicago
-___BA Economics___
+___BA Economics, Honors___
 <br>
 Core Modules: Micro/Macroeconomics, Multivariate Calculus, Linear Algebra, Econometrics, Energy Policy and Environmental Economics
 
 
+### Experience
+
+#### HomeHapp,___London, UK___
+ ___Business Development Manager___
+ * Developed the company’s launch strategy, established connections with real estate agents and exhibited at TechCrunch Disrupt
+
+#### The Capital Markets Company N.V. (Capco), ___London, UK___
+___Project Consultant___
+
+* Developed recommendations for banks to respond to disruptive financial technologies through a report focused on P2P transfer services
+
+#### Bahrain Mumtalakat Holding Company, ___Manama, Bahrain___
+___Investment Analyst Intern___
+* Created dynamic Excel models to analyze company fundamentals and perform yield-spread analysis on MENA market fixed income assets using VBA on a Bloomberg Terminal
+#### Al Jazeera Shipping Company,  ___Manama, Bahrain___
+___Intern___
+* Created an online database for the firm’s fleet and contributed to the redesigning of the shipyard’s security and safety systems as well as the company’s new website
+
+
+
+### Languages
+
+**Languages**: English (Fluent), Arabic (Fluent), Portuguese(Professional), Spanish (Professional), French (Conversational).
+
+**Computer Languages**: Ruby, JavaScript, HTML, CSS
+
 ### Interests
-* Music (Check out my [Soundcloud](#www.soundcloud.com/abdullamahmood)), Art
-* Languages: English (Fluent), Arabic (Fluent), Portuguese(Professional), Spanish (Professional), French (Conversational).
+* [Music:](#www.soundcloud.com/abdullamahmood)
+  * [Tech/Deep](#www.soundcloud.com/abdullamahmood/sets/tech16)
+  * [Electronic](#www.soundcloud.com/abdullamahmood/sets/ss16)
+  * [Chill Summery Music](#https://soundcloud.com/abdullamahmood/sets/chillsummer16)
+  * [Chill Hip Hop](#www.soundcloud.com/abdullamahmood/sets/chill-hip-hop)
+  * [Jazzy/Soul](#wwww.soundcloud.com/sets/jazzy-soul-vibes)
+  * [Brazilian/Bossa Nova](#www.soundcloud.com/abdullamahmood/sets/bossa)
+  * [Experimental/Contemporary Classical](#https://soundcloud.com/abdullamahmood/sets/nilafur)
+  * [Grime](#www.soundcloud.com/abdullamahmood/sets/grime)
+
+* [Art, Architecture, Fashion & Photography](http://abdullamahmood.tumblr.com/)
+
 
 ### Contact
 
 Email: abdulla.ali.mahmood@gmail.com
 
-[LinkedIn](#https://www.linkedin.com/in/abdullamahmood)
+LinkedIn: [abdullamahmod](#https://www.linkedin.com/in/abdullamahmood)
+
+Soundcloud: [abdullamahmood](#https://www.soundcloud.com/abdullamahmood)
