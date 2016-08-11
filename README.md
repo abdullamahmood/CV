@@ -1,4 +1,4 @@
-## Abdulla A. Mahmood
+# Abdulla A. Mahmood
 
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests) | [Contact](#contact)
@@ -12,7 +12,7 @@
 ##### People
 
 
-### Projects
+## Projects
 
 
 | Name          | Description | Technologies                       | Testing |
@@ -22,7 +22,7 @@
 | [MakersBnB](https://github.com/abdullamahmood/makers-bnb)    |MakersBnB is a A clone of AirBnb which allows you to view, request and book places to stay.            | Ruby, JavaScript                   |RSpec, Capybara  |
 
 
-### Education
+## Education
 
 #### Makers Academy
 An intensive, 12-week, full-stack web development program focused on agile, test-driven, object-oriented programming
@@ -47,7 +47,7 @@ ___BA Economics, Honors___
 Core Modules: Micro/Macroeconomics, Multivariate Calculus, Linear Algebra, Econometrics, Energy Policy and Environmental Economics
 
 
-### Experience
+## Experience
 
 #### HomeHapp,___London, UK___
  ___Business Development Manager___
@@ -68,13 +68,14 @@ ___Intern___
 
 
 
-### Languages
+## Languages
 
 **Languages**: English (Fluent), Arabic (Fluent), Portuguese(Professional), Spanish (Professional), French (Conversational).
 
 **Computer Languages**: Ruby, JavaScript, HTML, CSS
 
-### Interests
+## Interests
+
 * [Music:](http://www.soundcloud.com/abdullamahmood)
   * [Tech/Deep](http://www.soundcloud.com/abdullamahmood/sets/tech16)
   * [Electronic](http://www.soundcloud.com/abdullamahmood/sets/ss16)
@@ -88,7 +89,7 @@ ___Intern___
 * [Art, Architecture, Fashion & Photography](https://abdullamahmood.tumblr.com/)
 
 
-### Contact
+## Contact
 
 Email: abdulla.ali.mahmood@gmail.com
 
