@@ -1,8 +1,9 @@
 ## Abdulla A. Mahmood
 
-[Skills](#skills) [Projects](#projects) [Education](#education)
+[Skills](#skills)  [Projects](#projects)  [Education](#education)
 
 ### Skills
+
 
 
 
@@ -20,13 +21,17 @@
 ### Education
 
 ##### Makers Academy
+An intensive, 12-week, full-stack web development program focused on agile, test-driven, object-oriented programming
+Experience in: Ruby, Ruby on Rails, JavaScript, HTML, CSS, DataMapper, Node.js and Git
 
 
 ##### Imperial College Business School
 ***MSc Innovation, Entrepreneurship, & Management***
+<br>
 Merit; Core Modules: Venture Capital & Growth Finance, Financial Accounting, Business Economics, Project Management, Innovation & Strategic Management, and Entrepreneurship
 
 
 ##### The University of Chicago
 ***BA Economics***
+<br>
 Core Modules: Micro/Macroeconomics, Multivariate Calculus, Linear Algebra, Econometrics, Energy Policy and Environmental Economics
