@@ -9,7 +9,7 @@
 
 #### Analytical Thinking
 
-#####People
+#### People
 
 
 ## Projects
@@ -95,6 +95,6 @@ ___Intern___
 
 Email: abdulla.ali.mahmood@gmail.com
 
-LinkedIn: [abdullamahmod](#https://www.linkedin.com/in/abdullamahmood)
+LinkedIn: [abdullamahmod](https://www.linkedin.com/in/abdullamahmood)
 
-Soundcloud: [abdullamahmood](#https://www.soundcloud.com/abdullamahmood)
+Soundcloud: [abdullamahmood](https://www.soundcloud.com/abdullamahmood)
