@@ -1,15 +1,7 @@
 # Abdulla A. Mahmood
 
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests) | [Contact](#contact)
-
-## Skills
-
-### Problem Solving Skills
-
-### Analytical Thinking
-
-### People
+[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Languages](#languages) | [Interests](#interests) | [Contact](#contact)
 
 
 ## Projects
